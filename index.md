@@ -1,2 +1,2 @@
 # Projects
-[The LEAST You Need to Know About Spectre.css](spectre-book/README.md)
+[The LEAST You Need to Know About Spectre.css](spectre-book)
